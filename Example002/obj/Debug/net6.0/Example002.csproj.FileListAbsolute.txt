@@ -1,0 +1,15 @@
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.csproj.AssemblyReference.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.AssemblyInfoInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.AssemblyInfo.cs
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.csproj.CoreCompileInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\bin\Debug\net6.0\Example002.exe
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\bin\Debug\net6.0\Example002.deps.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\bin\Debug\net6.0\Example002.runtimeconfig.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\bin\Debug\net6.0\Example002.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\bin\Debug\net6.0\Example002.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\refint\Example002.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\Example002.genruntimeconfig.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\LectionOne\Example002\obj\Debug\net6.0\ref\Example002.dll
